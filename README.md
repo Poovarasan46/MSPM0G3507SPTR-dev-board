@@ -41,10 +41,6 @@ Below are the official datasheets and technical references used in this design:
 ### 📚 Design References
 * **Oscillator Layout:** [ST AN2867 - Oscillator Design Guide](https://www.st.com/resource/en/application_note/an2867-oscillator-design-guide-for-stm8afals-stm32-mcus-and-mpus-stmicroelectronics.pdf)
 
-## 🚀 Getting Started
-1.  Clone the repository.
-2.  Open the project files in **KiCad 8.0** (or later).
-3.  Review the schematic and BOM before ordering.
 
 ##  CREDITS
 * Design inspired by tutorials from **Phil's Lab**.
