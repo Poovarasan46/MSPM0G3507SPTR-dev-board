@@ -42,5 +42,3 @@ Below are the official datasheets and technical references used in this design:
 * **Oscillator Layout:** [ST AN2867 - Oscillator Design Guide](https://www.st.com/resource/en/application_note/an2867-oscillator-design-guide-for-stm8afals-stm32-mcus-and-mpus-stmicroelectronics.pdf)
 
 
-##  CREDITS
-* Design inspired by tutorials from **Phil's Lab**.
